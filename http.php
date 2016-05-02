@@ -20,7 +20,7 @@
 defined('JPATH_PLATFORM') or die;
 
 jimport('joomla.plugin.plugin');
-  
+     
 /**
  * Attempts to match a user based on the supplied global server variable.
  *
