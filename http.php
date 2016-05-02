@@ -29,7 +29,7 @@ jimport('joomla.plugin.plugin');
  * @since       2.0
  */
 class PlgSSOHTTP extends JPlugin 
-{
+{ 
 	/**
 	 * This method checks if a value for remote user is present inside
 	 * the $_SERVER array. If so then replace any domain related stuff
